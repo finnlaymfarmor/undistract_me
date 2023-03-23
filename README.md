@@ -1,10 +1,15 @@
 # undistract_me
 Browser extension that renders social media sites black and white, lowering your dopamine response and enabling a more productive environment
+This will be added to chromium stores soon, but for right now, download straight from this repo.
 
-~ download zip file, unzip, and drag into your extensions folder in any chromium browser!
-~ ~ click the .zip,
+*** CURRENT INSTRUCTIONS ***
+1. Go to the finnlaymfarmor/undistract_me repository page and click on the “Code” button.
+2. Select “Download ZIP” from the dropdown menu.
+3. Extract the ZIP file to a folder on your computer.
+4. Open your browser and go to the extensions page.
+5. Turn on “Developer mode” by clicking on the toggle switch.
+6. Drag the unzipped folder into the designated area, and enjoy productivity!
 
-List = Facebook, Reddit, Instagram, Twitter, TikTok
 
 For any suggestions or other websites, please email me:
 
