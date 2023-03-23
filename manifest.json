@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Facebook Black & White",
+  "version": "1.0",
+  "description": "Make Facebook black and white",
+  "icons": {
+    "48": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.facebook.com/*"
+      ],
+      "css": ["styles.css"]
+    }
+  ],
+  "permissions": [
+    "activeTab"
+  ]
+}
