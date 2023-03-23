@@ -6,7 +6,7 @@ Put them in a file (called it whatever you would like)
 Drag file into your extensions in any chromium browser (ensure you have developer mode enabled)
 This will make all social media sites listed black and white
 
-List = Facebook, Reddit, Instagram
+List = Facebook, Reddit, Instagram, Twitter, TikTok
 
 For any suggestions or other websites, please email me:
 
