@@ -7,7 +7,7 @@
     "48": "icon.png"
   },
   "action": {
-    "default_popup": "popup.html",
+    "default_popup": "popup.css",
     "default_icon": {
       "48": "icon.png"
     }
