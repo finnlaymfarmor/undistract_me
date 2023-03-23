@@ -11,7 +11,9 @@
       "matches": [
         "*://*.facebook.com/*",
         "*://*.instagram.com/*",
-        "*://*.reddit.com/*"
+        "*://*.reddit.com/*",
+        "*://*twitter.com/*",
+        "*://*tiktok.com/*"
       ],
       "css": ["styles.css"]
     }
