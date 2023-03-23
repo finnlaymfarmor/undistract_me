@@ -13,3 +13,10 @@ For any suggestions or other websites, please email me:
 finnlaym@farmorsoftware.com
 
 Ta!
+
+
+
+For reference, here is an article detailing the positive effects of making your phone screen black and white:
+https://metro.co.uk/2019/04/12/making-iphone-display-black-white-boost-happiness-wellbeing-9181828/
+
+The concept has simply been adopted for laptops. I don't think everything black and white is necessary for laptops, just your social media sites. Enjoy!
