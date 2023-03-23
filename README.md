@@ -11,7 +11,7 @@ This will be added to chromium stores soon, but for right now, download straight
 6. Drag the unzipped folder into the designated area, and enjoy productivity!
 
 
-For any suggestions or other websites, please email me:
+For any suggestions or other websites, or bugs, please email me:
 
 finnlaym@farmorsoftware.com
 
@@ -23,3 +23,5 @@ For reference, here is an article detailing the positive effects of making your 
 https://metro.co.uk/2019/04/12/making-iphone-display-black-white-boost-happiness-wellbeing-9181828/
 
 The concept has simply been adopted for laptops. I don't think everything black and white is necessary for laptops, just your social media sites. Enjoy!
+
+23/03/23 - Current version working only for chromium browsers, with no iOS support (yet).
