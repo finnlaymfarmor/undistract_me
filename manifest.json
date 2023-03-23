@@ -1,24 +1,31 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Facebook Black & White",
   "version": "1.0",
   "description": "Make Facebook black and white",
   "icons": {
     "48": "icon.png"
   },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icon.png"
+    }
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
   "content_scripts": [
     {
       "matches": [
         "*://*.facebook.com/*",
         "*://*.instagram.com/*",
         "*://*.reddit.com/*",
-        "*://*twitter.com/*",
-        "*://*tiktok.com/*"
+        "*://*.twitter.com/*",
+        "*://*.tiktok.com/*"
       ],
       "css": ["styles.css"]
     }
-  ],
-  "permissions": [
-    "activeTab"
   ]
 }
